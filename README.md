@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnassREBBAG
 - 👀 I’m interested in algorithmics and web dev ..
-- 🌱 I’m currently learning java EE
-- 💞️ I’m looking to collaborate on projects w/ Python,C,JAVA, JAVAEE
+- 🌱 I’m currently learning JavaEE, Spring 
+- 💞️ I’m looking to collaborate on projects w/ Python, C, JAVA, ...
 - 📫 How to reach me mail : anassrebbag1@gmail.com
                            
 
